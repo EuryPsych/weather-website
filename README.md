@@ -3,7 +3,9 @@
 A modern, responsive weather application built with React and Tailwind CSS that provides real-time weather information and forecasts.
 
 ![Weather Dashboard](https://img.shields.io/badge/React-18.2.0-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC) ![Vite](https://img.shields.io/badge/Build-Vite-646CFF)
+
 use master branch
+
 ## ✨ Features
 
 - **🌍 Current Weather** - Real-time weather conditions for any city
